@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+.card_wrapper {
+    max-width: 1200px;
+    position: relative;
+}
+
+.card_wrapper .card_orange {
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    background-color: orange;
+}
+
+.card_wrapper .card_blue {
+    width: 300px;
+    background-color: blue;
+    position: absolute;
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+/* header {
+    width: 100%;
+    padding: 20px;
+    box-shadow: 0 0 1rem darkcyan;
+}
+
+header nav {
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+header nav ul:nth-child(1) li a {
+    color: darkgray;
+    font-size: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.card_wrapper {
+    max-width: 1200px;
+    margin: 10rem auto;
+    display: flex;
+    gap: 4rem;
+    background: url(./fgfg-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+.card_wrapper .card {
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    height: 200px;
+    text-align: center;
+    font-size: 2rem;
+    gap: 20px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0.5rem 0.5rem 0.5rem 0.5rem darkblue;
+}
+
+.card_wrapper .card i {
+    font-size: 5rem;
+}
+
+section {
+    width: 100%;
+    padding: 20px;
+    background: url(./fgfg-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+section .card_wrap {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+}
+
+section .card_wrap .cards {
+    width: 49%;
+    height: 60rem;
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+}
+
+section .card_wrap .cards h3 {
+    display: flex;
+    align-items: flex-end;
+}
+
+section .card_wrap .cards input {
+    width: 50rem;
+    height: 5rem;
+    padding: 0rem 4rem  ;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    margin: 0rem 3rem;
+}
+
+section .card_wrap .cards h1 {
+    font-size: 3rem;
+    font-weight: 900;
+    padding: 3rem;
+}
+
+section .card_wrap .cards label {
+    margin: 0rem 3rem;
+}
+
+section .card_wrap .cards textarea {
+    margin: 0rem 3.3rem;
+    width: 50rem;
+    height: 9rem;
+}
+
+section .card_wrap .cards button {
+    margin: 2rem 0rem   ;
+    width: 50rem;
+    height: 4rem;
+    margin: 0rem 3.3rem; 
+    text-transform: uppercase;   
+}
+
+section .card_wrap .cards h3 a {
+    color: white;
+}
+
+section .card_wrap .cards h3 {
+    margin: 8rem 4rem;
+} */
